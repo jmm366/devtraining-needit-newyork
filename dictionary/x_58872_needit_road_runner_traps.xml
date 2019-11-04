@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Road Runner Traps" max_length="40" name="x_58872_needit_road_runner_traps" type="collection">
+        <element label="Cost" max_length="20" name="cost" type="currency"/>
+        <element label="Order Number" max_length="40" name="order_number" type="integer"/>
+        <element label="Shipment Date" max_length="40" name="shipment_date" type="glide_date"/>
+        <element label="Type" max_length="40" name="type" type="string"/>
+    </element>
+</database>

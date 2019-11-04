@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Texas Counties" max_length="40" name="x_58872_needit_u_texas_counties" type="collection">
+        <element label="County" max_length="40" name="county" type="string"/>
+        <element label="County seat" max_length="40" name="county_seat" type="string"/>
+        <element label="Created" max_length="40" name="created" type="glide_date_time"/>
+        <element label="Created by" max_length="40" name="created_by" type="string"/>
+        <element label="FIPS" max_length="40" name="fips" type="string"/>
+        <element label="Updated" max_length="40" name="updated" type="glide_date_time"/>
+        <element label="Updated by" max_length="40" name="updated_by" type="string"/>
+        <element label="Updates" max_length="40" name="updates" type="integer"/>
+    </element>
+</database>
